@@ -1,23 +1,17 @@
-# Reto #1 - Tarjeta de usuario
+# Challenge #1 - User Card
+Language: English | [Español](README-es.md)
 
-🌍 **URL del reto**: *https://lenguajejs.com/retos/nivel-facil/basic-card/*
+🌍 **Challenge URL**: *https://lenguajejs.com/retos/nivel-facil/basic-card/*
 
-## Datos
+## Data
 
-- 🦄 **Desarrollador/a:** *Javier Rojas*
-- 🐇 **Link a red social:** *https://twitter.com/nombre*
-- 🦾 **Perfil:** *Junior*
-- 💬 **Un comentario breve o frase ingeniosa**: *Sin sacrificio no hay recompensa*
+- 🦄 **Developer:** *Javier Rojas*
+- 🐇 **Social network link:** *https://twitter.com/name*
+- 🦾 **Profile:** *Junior*
+- 💬 **A short comment or witty phrase**: *No sacrifice, no reward*
 
-## Observaciones
-
-*Escribe aquí tus observaciones sobre la implementación*
+## Comments
 
 > Puedes encontrar otros retos de Manz.dev en: <br>▶ https://lenguajejs.com/retos/
 
 ---
-*Puedes borrar todo desde esta línea en adelante*
-
----
-
-Recuerda cambiar el título del repo, los datos y desplegar la versión en GitHub Pages e indicar la URL en la esquina superior derecha de tu repositorio de GitHub, junto a una pequeña descripción.
