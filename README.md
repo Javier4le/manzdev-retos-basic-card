@@ -1,4 +1,4 @@
-# manzdev-retos-basic-card
+# Reto #1 - Tarjeta de usuario
 
 🌍 **URL del reto**: *https://lenguajejs.com/retos/nivel-facil/basic-card/*
 
