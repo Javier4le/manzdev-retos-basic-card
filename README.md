@@ -1,13 +1,13 @@
-# manzdev-retos-titulo
+# manzdev-retos-basic-card
 
 🌍 **URL del reto**: *https://lenguajejs.com/retos/nivel-facil/basic-card/*
 
 ## Datos
 
-- 🦄 **Desarrollador/a:** *Nombre*
+- 🦄 **Desarrollador/a:** *Javier Rojas*
 - 🐇 **Link a red social:** *https://twitter.com/nombre*
-- 🦾 **Perfil:** *Novato / Bajo / Medio / Avanzado / Experto*
-- 💬 **Un comentario breve o frase ingeniosa**: *-*
+- 🦾 **Perfil:** *Junior*
+- 💬 **Un comentario breve o frase ingeniosa**: *Sin sacrificio no hay recompensa*
 
 ## Observaciones
 
