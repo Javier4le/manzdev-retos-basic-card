@@ -1,4 +1,4 @@
-<p align="right">Idioma: <a href="README-es.md">English</a> | Español</p>
+<p align="right">Idioma: <a href="README.md">English</a> | Español</p>
 <h1>Reto #1 - Tarjeta de Usuario</h1>
 
 ---
