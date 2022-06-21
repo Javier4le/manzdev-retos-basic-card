@@ -1,5 +1,11 @@
-# Reto #1 - Tarjeta de Usuario
-Idioma: [English](README.md) | Español
+<p align="right">Idioma: <a href="README-es.md">English</a> | Español</p>
+<h1>Reto #1 - Tarjeta de Usuario</h1>
+
+---
+
+<p align="center"><img src="https://user-images.githubusercontent.com/38696273/174709180-5348ccd9-eea7-4538-9beb-f6dfd9dcd7c4.png"></p>
+
+---
 
 🌍 **URL del reto**: *https://lenguajejs.com/retos/nivel-facil/basic-card/*
 
