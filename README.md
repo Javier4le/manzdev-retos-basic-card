@@ -18,5 +18,11 @@
 
 ## Comments
 
-> Puedes encontrar otros retos de Manz.dev en: <br>▶ https://lenguajejs.com/retos/
+- I tried to be as faithful as possible to the original model, since, as I understand it, the challenge is more layout than creativity.
+- I kept the number of followers and followees from the original template.
+- The "Follow" button redirects to my Linkedin, since I don't usually use Twitter.
+
+<br/>
+
+> You can find other Manz.dev challenges at: <br>▶ https://lenguajejs.com/retos/
 
