@@ -18,10 +18,11 @@
 
 ## Observaciones
 
-*Escribe aquí tus observaciones sobre la implementación*
+- Intenté ser lo más fiel al modelo original, ya que, según entiendo, el reto consiste en maquetado más que en creatividad. 
+- El número de seguidores y seguidos los mantuve del modelo original.
+- El botón de 'Follow' redirecciona a mi Linkedin ya que no suelo utilizar Twitter.
+
+<br/>
 
 > Puedes encontrar otros retos de Manz.dev en: <br>▶ https://lenguajejs.com/retos/
 
-<!--
-Recuerda cambiar el título del repo, los datos y desplegar la versión en GitHub Pages e indicar la URL en la esquina superior derecha de tu repositorio de GitHub, junto a una pequeña descripción.
--->
