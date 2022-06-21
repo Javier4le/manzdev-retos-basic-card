@@ -1,0 +1,194 @@
+@font-face {
+	font-style: normal;
+	font-family: "Montserrat Regular";
+	font-weight: 700;
+	src: url("assets/fonts/Montserrat/Montserrat-Bold.ttf") format('truetype');
+}
+
+@font-face {
+   font-style: normal;
+   font-family: "Poppins Light";
+   font-weight: 300;
+   src: url("assets/fonts/Poppins/Poppins-Light.ttf") format('truetype');
+}
+
+@font-face {
+   font-style: normal;
+   font-family: "Poppins Medium";
+   font-weight: 500;
+   src: url("assets/fonts/Poppins/Poppins-Medium.ttf") format('truetype');
+}
+
+* {
+   margin: 0;
+   box-sizing: border-box;
+   padding: 0;
+   list-style: none;
+   text-decoration: none;
+}
+
+body {
+   display: grid;
+   background: linear-gradient(20deg, #d37ec6, #ffc873, #ff3867);
+   height: 100vh;
+   font-family: 'Poppins Light', sans-serif;
+   place-content: center;
+}
+
+.card-container {
+   display: flex;
+   flex-direction: column;
+   border-radius: 10px;
+   /* width: 30vw; */
+   background-color: #fff;
+   height: auto;
+   /* height: 37.5rem; */
+   width: 28.125rem;
+   -webkit-box-shadow: 0 0 20px rgba(160,93,93,0.5), inset 0 0 20px rgba(136,136,136,0.8);
+   -moz-box-shadow: 0 0 20px rgba(160,93,93,0.5), inset 0 0 20px rgba(136,136,136,0.8);
+   box-shadow: 0 0 20px rgba(160,93,93,0.5), inset 0 0 20px rgba(136,136,136,0.8);
+}
+
+.card-header {
+   z-index: 9;
+   position: relative;
+   display: flex;
+   align-items: center;
+   border-bottom: 3px solid #cb21cd;
+   width: 100%;
+}
+
+.card-header .banner {
+   height: 200px;
+   min-width: 100%;
+   object-fit: cover;
+   border-top-right-radius: 10px;
+   border-top-left-radius: 10px;
+   -webkit-border-top-right-radius: 10px;
+   -webkit-border-top-left-radius: 10px;
+}
+
+.card-header::after {
+   z-index: 1;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content: "";
+   background: linear-gradient(to bottom, transparent, #22024b);
+   height: 100%;
+   width: 100%;
+   border-top-right-radius: 10px;
+   border-top-left-radius: 10px;
+   -webkit-border-top-right-radius: 10px;
+   -webkit-border-top-left-radius: 10px;
+}
+
+.card-header .avatar {
+   z-index: 9;
+   position: absolute;
+   top: 50%;
+   left: 0;
+   right: 0;
+   border: 3.5px solid #cb21cd;
+   border-radius: 50%;
+   margin: auto;
+   height: 128px;
+   width: 128px;
+   object-fit: cover;
+}
+
+.card-content {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin: 50px 40px 30px;
+   text-align: center;
+   gap: 30px;
+}
+
+.card-content h1 {
+   font-family: 'Montserrat Regular', sans-serif;
+}
+
+.card-content span {
+   display: flex;
+   align-items: center;
+   font-style: italic;
+   color: #a05d5d;
+}
+
+.card-content span svg {
+   height: 20px;
+   width: 20px;
+   fill: #a05d5d;
+}
+
+.card-content p {
+   font-size: 18px;
+   font-weight: 300;
+   text-align: left;
+}
+
+.btn-follow {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border: 2px solid #2d7cbf;
+   border-radius: 50px;
+   height: 45px;
+   width: 120px;
+   font-family: "Poppins Medium", sans-serif;
+   /* padding: 10px; */
+   font-size: 13px;
+   color: #2d7cbf;
+}
+
+.btn-follow:hover {
+   background-color: #2d7cbf;
+   color: #fff;
+}
+
+.card-footer {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   grid-template-rows: 1fr;
+   grid-gap: 1px solid #cb21cd;
+   border-top: 1px solid rgba(135, 135, 135, 0.2);
+   margin: 0 5px 10px;
+   font-size: 0.9063rem;
+   text-align: center;
+}
+
+.card-footer .data {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   padding: 10px 0;
+   color: #888888;
+}
+
+.card-footer .data:nth-child(3n+1) {
+   border-right: 1px solid rgba(135, 135, 135, 0.2);
+}
+
+.card-footer .data:nth-child(3n) {
+   border-left: 1px solid rgba(135, 135, 135, 0.2);
+}
+
+.card-footer .data span {
+   display: flex;
+   color: #000;
+   gap: 5px;
+   /* align-items: flex-end; */
+}
+
+.card-footer .data span svg {
+   height: 20px;
+   width: 20px;
+   fill: #888888;
+}
+
+
+
