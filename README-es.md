@@ -12,7 +12,7 @@
 ## Datos
 
 - 🦄 **Desarrollador/a:** *Javier Rojas*
-- 🐇 **Link a red social:** *https://twitter.com/nombre*
+- 🐇 **Link a red social:** *https://www.linkedin.com/in/javier4le/*
 - 🦾 **Perfil:** *Junior*
 - 💬 **Un comentario breve o frase ingeniosa**: *Sin sacrificio no hay recompensa*
 
