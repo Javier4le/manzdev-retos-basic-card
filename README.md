@@ -14,4 +14,3 @@ Language: English | [Español](README-es.md)
 
 > Puedes encontrar otros retos de Manz.dev en: <br>▶ https://lenguajejs.com/retos/
 
----
