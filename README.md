@@ -12,7 +12,7 @@
 ## Data
 
 - 🦄 **Developer:** *Javier Rojas*
-- 🐇 **Social network link:** *https://twitter.com/name*
+- 🐇 **Social network link:** *https://www.linkedin.com/in/javier4le/*
 - 🦾 **Profile:** *Junior*
 - 💬 **A short comment or witty phrase**: *No sacrifice, no reward*
 
