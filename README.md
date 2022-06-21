@@ -1,5 +1,11 @@
-# Challenge #1 - User Card
-Language: English | [Español](README-es.md)
+<p align="right">Language: English | <a href="README-es.md">Español</a></p>
+<h1>Challenge #1 - User Card</h1>
+
+---
+
+<p align="center"><img src="https://user-images.githubusercontent.com/38696273/174709180-5348ccd9-eea7-4538-9beb-f6dfd9dcd7c4.png"></p>
+
+---
 
 🌍 **Challenge URL**: *https://lenguajejs.com/retos/nivel-facil/basic-card/*
 
