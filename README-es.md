@@ -1,4 +1,4 @@
-# Reto #1 - Tarjeta de usuario
+# Reto #1 - Tarjeta de Usuario
 Idioma: [English](README.md) | Español
 
 🌍 **URL del reto**: *https://lenguajejs.com/retos/nivel-facil/basic-card/*
@@ -16,9 +16,6 @@ Idioma: [English](README.md) | Español
 
 > Puedes encontrar otros retos de Manz.dev en: <br>▶ https://lenguajejs.com/retos/
 
----
-*Puedes borrar todo desde esta línea en adelante*
-
----
-
+<!--
 Recuerda cambiar el título del repo, los datos y desplegar la versión en GitHub Pages e indicar la URL en la esquina superior derecha de tu repositorio de GitHub, junto a una pequeña descripción.
+-->
